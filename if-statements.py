@@ -31,4 +31,4 @@ if number == 17 or python_course:
 
 a=1
 b=2
-print ("bigger" if a > b else "smaller")
+print ("bigger" if a > b else "smallers")
