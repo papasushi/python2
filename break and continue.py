@@ -12,6 +12,6 @@ student_names = ["James","Katrina","Jessica","Mark","Bort","Frank Grimes","Max P
 for name in student_names:
     if name =="Bort":
         continue
-        print("found him! " + name)
+        print("found him! " + name) #this code is not executed
         break
     print ("Currently testing " + name)
